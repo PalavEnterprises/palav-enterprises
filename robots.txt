@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://palav-enterprises.vercel.app/sitemap.xml
